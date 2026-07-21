@@ -3,6 +3,8 @@
 // Mixed data types
 let data = ["Mariam", 19, true, null];
 
+// first element at 0
+//The last element is at array.length - 1.
 
 const myArr = [0, 1, 2, 3, 4, 5]
 const myHeors = ["shaktiman", "naagraj"]
